@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Book Management API Test Suite">
+    <test name="Add Book Tests">
+        <classes>
+            <class name="AddBookTest"/>
+        </classes>
+    </test>
+    <test name="Retrieve Book Tests">
+        <classes>
+            <class name="RetrieveBookTest"/>
+        </classes>
+    </test>
+    <test name="Update Book Tests">
+        <classes>
+            <class name="UpdateBookTest"/>
+        </classes>
+    </test>
+    <test name="Delete Book Tests">
+        <classes>
+            <class name="DeleteBookTest"/>
+        </classes>
+    </test>
+</suite>

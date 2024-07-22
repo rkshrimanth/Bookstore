@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="pract">
+<test name="duplicate">
+
+<classes>
+<class name="newpractice.Launch">
+<Parameter name="username" value="admin1" />
+</class>
+</classes>
+</test>
+</suite>
